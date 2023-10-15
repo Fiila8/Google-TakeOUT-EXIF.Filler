@@ -12,10 +12,10 @@ or you can chose directory with more folders with photos and .JSONs
 
 exp. I : 
 - L📁ALL PHOTOSL
-- LPhoto_1.png
-- LPhoto_1.png.JSON
-- LPhoto_2.jpg
-- LPhoto_2.jpg.JSON
+-    LPhoto_1.png
+-    LPhoto_1.png.JSON
+-    LPhoto_2.jpg
+-    LPhoto_2.jpg.JSON
 
 exp. II: 
 - L📁PHOTOS
