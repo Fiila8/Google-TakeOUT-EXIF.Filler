@@ -10,12 +10,14 @@ When the program is started you have to chose the folder with photos and .JSON f
 You can chose one folder with all photos and aditional .JSON files (and in that folder cannot be other folders just pictures and .JSONs), 
 or you can chose directory with more folders with photos and .JSONs 
 
-exp. I : L📁ALL PHOTOS
+exp. I : 
+- L📁ALL PHOTOS
           - LPhoto_1.png
           - LPhoto_1.png.JSON
           - LPhoto_2.jpg
           - LPhoto_2.jpg.JSON
 
-exp. II: L📁PHOTOS
+exp. II: 
+- L📁PHOTOS
           - └📁Photos from 2018
           - └📁Photos from 2019
